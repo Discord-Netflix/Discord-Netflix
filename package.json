@@ -54,6 +54,6 @@
   },
   "devDependencies": {
     "all-contributors-cli": "^6.26.1",
-    "electron-builder": "^26.7.0"
+    "electron-builder": "^26.15.3"
   }
 }
